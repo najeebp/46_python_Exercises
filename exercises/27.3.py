@@ -1,0 +1,1 @@
+print [len(x) for x in ['spark','spark support']]

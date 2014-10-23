@@ -1,0 +1,1 @@
+print max(map(len,['spark','spark support']))
